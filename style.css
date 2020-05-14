@@ -131,6 +131,9 @@ dd {
     margin-bottom: 0.5rem;
     margin-left: 0;
 }
+at-share-btn-elements{
+       margin:0 auto;
+}
 blockquote {
     margin: 0 0 1rem;
 }
